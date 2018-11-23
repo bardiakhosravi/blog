@@ -28,6 +28,10 @@
 - [FAQ and support](#faq-and-support)
 - [Credits and contributions](#credits)
 
+bundle exec jekyll serve
+bundle exec jekyll build
+aws_website push
+
 ## Prerequisites
 
 - You need to have a GitHub account. If you don't have one, [sign up here](https://github.com/join) - it takes one minute. This is where your website will live - if you sign up with username `johnsmith` then your website will be `https://johnsmith.github.io`.

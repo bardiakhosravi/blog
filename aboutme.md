@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bardia Khosravi. I live in Toronto, Ontario with my wife and cat (Pishool). I have been in the field of Software Development
+for about 12 years. I have worked at various tech companies as a Software Engineer and Manager.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In this blog I will share:
 
-What else do you need?
+- Learning from my experiences working and interviewing with software companies
+- Solutions to common or complex problems
+- Ocassionaly, if I have an oppinion about something
 
-### my history
+# Topics
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Topics you can expect in this blog:
+
+- Software Architecture
+- Interview stories and learnings from them
+- Programming
+- AI & Machine Learning
