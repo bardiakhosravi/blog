@@ -6,7 +6,7 @@ title: Two Important Questions to Ask Recruiters!
 
 LinkedIn has chanaged the way how candidates are recruited an hired into companies. It has become the go to platform for recruiters to find candidates and present for roles they are working to fill.
 At times many of us get weekly messages from recruiters regarding potential roles that we might be a fit for. If you decide to pursue a role that you think would be a good career move you have to be
-diligent in ensuring that the role you are going to interview for is what you actually think it is. Asking a few clarifying questions when speaking with the recruiter will help you get a clear picture
+diligent in ensuring that the role you are going to interview for is what you actually think it is. Asking a few clarifying questions when speaking with the recruiter will help you get a picture
 of what the role entails and whether or not it is the dream job you have been waiting for.
 
 # Clarify the Exact Title of the Role
